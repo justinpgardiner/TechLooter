@@ -1,6 +1,6 @@
 # Tech Looter
-A basic fullstack web application to check prices of tech items at top stores using Flask and React.
-Project used for learning web design with React and the basics of creating an API with Flask.
+$${\color{red}A basic fullstack web application to check prices of tech items at top stores using Flask and React.}$$
 ## Techniques
-* __Webscraping__
-Tech Looter uses BeautifulSoup4 to scrape product information from technology stores in order to display them to the user when searched
+* __Webscraping:__
+Tech Looter uses python requests library and BeautifulSoup4 to scrape product information from technology stores in order to display them to the user when searched
+
